@@ -1,0 +1,30 @@
+
+# Secrets and credentials
+*.env
+local.settings.json
+*.key
+*.pem
+secrets.json
+
+# Azure
+*.publishsettings
+
+# Data files (too large for git)
+*.csv
+*.parquet
+*.json.gz
+
+# Secrets and credentials
+*.env
+local.settings.json
+*.key
+*.pem
+secrets.json
+
+# Azure
+*.publishsettings
+
+# Data files (too large for git)
+*.csv
+*.parquet
+*.json.gz
