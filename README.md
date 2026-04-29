@@ -15,11 +15,12 @@ Amazon Fine Food Reviews — Kaggle (snap/amazon-fine-food-reviews)
 568,454 rows, 10 columns: Id, ProductId, UserId, ProfileName, HelpfulnessNumerator, HelpfulnessDenominator, Score, Time, Summary, Text
 
 ## Repository Structure
-- `/notebooks` — Databricks processing notebooks
-- `/modules` — Reusable Python helper modules
-- `/sql` — Synapse SQL external tables and analytical queries
-- `/adf` — ADF pipeline JSON exports
-- `/docs` — Architecture diagram and screenshots
+- `/notebooks` — Databricks processing notebooks (raw→processed, processed→curated)
+- `/modules` — Reusable Python helper functions (validation, anonymisation, quarantine)
+- `/sql` — Synapse Serverless SQL scripts and analytical queries
+- `/adf` — ADF pipeline JSON export
+- `/docs/screenshots` — Evidence screenshots from Azure
+- `/docs/query-results` — Exported analytical query results (CSV and PNG)
 
 ## AI Acknowledgement
 Claude (Anthropic) was used for scaffolding and code refinement. All logic was reviewed and adapted manually.
