@@ -1,0 +1,6 @@
+﻿SentimentBand,Score,TotalReviews,AvgHelpfulnessRatio
+Negative,1,40002,0.5392
+Negative,2,19165,0.5664
+Neutral,3,24217,0.6255
+Positive,4,38639,0.7908
+Positive,5,176379,0.8715
