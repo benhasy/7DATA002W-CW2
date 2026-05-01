@@ -22,5 +22,11 @@ Amazon Fine Food Reviews — Kaggle (snap/amazon-fine-food-reviews)
 - `/docs/screenshots` — Evidence screenshots from Azure
 - `/docs/query-results` — Exported analytical query results (CSV and PNG)
 
-## AI Acknowledgement
-Claude (Anthropic) was used for scaffolding and code refinement. All logic was reviewed and adapted manually.
+## AI Use Declaration
+In preparing this project, the following AI tools were used:
+
+Claude (Anthropic) to clarify technical concepts and check understanding of the module material.
+Claude (Anthropic) to assist with producing the architecture diagram in draw.io based on my own design.
+Claude (Anthropic) for assistance with code generation in the PySpark notebooks, which I tested and verified against the dataset.
+
+I confirm that I have not used AI to generate content presented as my own work, and I remain fully responsible for the ideas, analysis, and conclusions in this project.
